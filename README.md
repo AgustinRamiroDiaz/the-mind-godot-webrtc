@@ -7,6 +7,6 @@
 - https://docs.godotengine.org/en/stable/tutorials/networking/webrtc.html
 - https://github.com/godotengine/godot-demo-projects/tree/master/networking/webrtc_minimal
 
-# TODO
+# Requirements:
 
-Use https://github.com/godotengine/webrtc-native to build the WebRTC plugin for Godot and be able to test the game in Godot Engine.
+Add https://github.com/godotengine/webrtc-native/releases to the project folder. You should end up with the unpacked files in `the-mind/webrtc/`
